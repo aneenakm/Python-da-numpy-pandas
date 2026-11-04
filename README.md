@@ -1,4 +1,4 @@
-# Python Data Analytics Assignment 1: NumPy and Pandas
+# Python Data Analytics : NumPy and Pandas
 
 ## 📌 Project Overview
 
